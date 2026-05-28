@@ -1,0 +1,23 @@
+{
+  "name": "Event Run Sheet",
+  "short_name": "Run Sheet",
+  "description": "Motorsport Engineering Timesheet - CIGT Sprint 2026",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#e94560",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Crect width='128' height='128' rx='20' fill='%231a1a2e'/%3E%3Ctext x='64' y='80' text-anchor='middle' font-size='56' fill='%23e94560'%3E%F0%9F%8F%8E%3C/text%3E%3C/svg%3E",
+      "sizes": "128x128",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='80' fill='%231a1a2e'/%3E%3Ctext x='256' y='320' text-anchor='middle' font-size='224' fill='%23e94560'%3E%F0%9F%8F%8E%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
